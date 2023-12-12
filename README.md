@@ -1,5 +1,5 @@
 # The Text Store
-## A store replacement driven on a subplugin based system and a text file database!
+## A store replacement driven on a subplugin based system and a text file database !
 
 ### Stable Releases
 Go to [Releases](https://github.com/Batfoxkid/Text-Store/releases "Releases • Batfoxkid/Text-Store") and choose out the [lastest release](https://github.com/Batfoxkid/Text-Store/releases/latest) or older versions.
